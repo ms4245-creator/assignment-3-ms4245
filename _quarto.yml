@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "assignment-3-ms4245"
+  title: "collab-website"
   navbar:
     left:
       - href: index.qmd
