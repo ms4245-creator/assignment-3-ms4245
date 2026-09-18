@@ -1,7 +1,5 @@
 ---
-title: "assignment-3-ms4245"
+title: "Miles and Kamal Collab Website"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![Haleakala](images/IMG_3929.JPG)
